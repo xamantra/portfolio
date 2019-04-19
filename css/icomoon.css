@@ -423,10 +423,10 @@
 .icon-bar-chart-o:before {
   content: "\f080";
 }
-.icon-facebook-square:before {
+.icon-twitter-square:before {
   content: "\f081";
 }
-.icon-github-square:before {
+.icon-facebook-square:before {
   content: "\f082";
 }
 .icon-camera-retro:before {
@@ -495,13 +495,13 @@
 .icon-phone-square:before {
   content: "\f098";
 }
-.icon-facebook:before {
+.icon-twitter:before {
   content: "\f099";
 }
-.icon-github:before {
+.icon-facebook:before {
   content: "\f09a";
 }
-.icon-github-f:before {
+.icon-facebook-f:before {
   content: "\f09a";
 }
 .icon-github:before {
@@ -1155,7 +1155,7 @@
 .icon-stack-overflow:before {
   content: "\f16c";
 }
-.icon-linkedin:before {
+.icon-instagram:before {
   content: "\f16d";
 }
 .icon-flickr:before {
@@ -1782,7 +1782,7 @@
 .icon-genderless:before {
   content: "\f22d";
 }
-.icon-github-official:before {
+.icon-facebook-official:before {
   content: "\f230";
 }
 .icon-pinterest-p:before {
